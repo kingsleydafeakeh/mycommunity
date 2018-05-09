@@ -1,0 +1,9 @@
+/bin
+/pub_html/core
+/pub_html/modules/contrib
+/pub_html/profiles/contrib
+/pub_html/themes/contrib
+/pub_html/sites/default/files
+/pub_html/libraries
+vendor/
+.idea
