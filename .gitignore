@@ -7,3 +7,4 @@
 /pub_html/libraries
 vendor/
 .idea
+/pub_html/sites/default/settings.php
